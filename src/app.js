@@ -1,5 +1,5 @@
 import express from "express";
-
+import "./db";
 const app = express();
 const home = (req, res) => {
   return res.send("hello");
