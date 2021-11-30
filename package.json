@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/Eric-lab-star/backend#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoose": "^6.0.14",
+    "pug": "^3.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.16.0",
